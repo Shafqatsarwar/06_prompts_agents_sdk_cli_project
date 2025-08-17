@@ -11,8 +11,8 @@ docs = {
     "outlook.pdf": "This document presents the projected future performance of the system.",
     "plan.md": "The plan outlines the steps for the project's implementation.",
     "spec.txt": "These specifications define the technical requirements for the equipment.",
+    "panaversity.html": "<html><body><h1>Welcome to Panaversity</h1><p>Panaversity is a global educational initiative.</p></body></html>",
 }
-
 
 @mcp.tool(
     name="read_doc_contents",
